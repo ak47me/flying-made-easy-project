@@ -1,0 +1,5 @@
+# flying-made-easy-project
+The best way to fly at a lower cost 
+<h1 align="center" id="title">Flying Made Simple</h1>
+
+<p id="description">Flying Made Simple was a high school project aimed at creating a virtual airport management system. The primary objective of the project was to streamline various airport administration processes. Throughout the development period we successfully implemented features that encompassed passport control ticket booking and cancellation as well as a comprehensive catering system. By focusing on these essential aspects we aimed to provide a holistic solution for managing airport operations in an efficient and user-friendly manner. This project not only helped us gain a deeper understanding of airport operations but also honed our skills in software development teamwork and project management. Through the challenges and triumphs of building Flying Made Simple we developed a profound appreciation for the intricacies involved in creating systems that facilitate the seamless functioning of complex processes within the aviation industry.</p>
